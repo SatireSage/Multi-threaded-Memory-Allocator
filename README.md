@@ -69,7 +69,7 @@ Please read [CONTRIBUTING.md](https://chat.openai.com/CONTRIBUTING.md) for detai
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://chat.openai.com/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](#LICENSE) file for details.
 
 ## Acknowledgments
 
