@@ -63,14 +63,10 @@ int available_mem = available_memory();
 
 `main.c` contains a main function that tests the allocator. Feel free to add your own test cases for more thorough testing. We may change the test cases or add more for actual grading.
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://chat.openai.com/CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
-
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](#LICENSE) file for details.
+This project is licensed under the MIT License
 
 ## Acknowledgments
 
-- Assignment instructions and base code provided by the course instructor.
+- Assignment instructions and base code provided by the course instructor for CMPT 300, Steven Ko.
